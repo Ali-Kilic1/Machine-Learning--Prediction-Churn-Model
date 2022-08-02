@@ -3,7 +3,6 @@ Veri kümesi kullanılarak Machine Learning örneği yapılmıştır.
 
 🟠Kullanılan Algoritmalar;
 
-🔸Random Forest Classifier
 
 🔸Logistic Regression
 
